@@ -1,2 +1,4 @@
 # Deploying a python web application
-pthon "Hello World"
+#echo "Hello World"
+
+print ('Hello World')
